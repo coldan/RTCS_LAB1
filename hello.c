@@ -11,6 +11,9 @@ void main()
     if (c<5){
         printf("Hola");
     }
+    if(c==5){
+        printf("Hey");
+    }
 
 
 }
