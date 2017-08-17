@@ -5,8 +5,11 @@ void main()
     int a, b, c:
     c=a+b;
 
-    if(c>5) then {
+    if(c>5){
         printf("Hello");
+    }
+    if (c<5){
+        printf("Hola");
     }
 
 
